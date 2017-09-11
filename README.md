@@ -1,5 +1,5 @@
 # xPacs
-This repository has the code for the xPacks work that is under submission for academic conference. The code is protected under the below license
+This repository has the code for the xPacs work that is under submission for academic conference. The code is protected under the below license
 
 Copyright 2017 Carnegie Mellon University
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
