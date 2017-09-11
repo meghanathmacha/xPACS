@@ -1,0 +1,8 @@
+"lower.bound","upper.bound","attribute","malign","normal","packid"
+0.888402013445492,1,"nucleoili",75,0,1
+0.614936507370006,1,"clumpthickness",145,5,2
+0,0.78184433216739,"mitoses",145,5,2
+1,1,"cellsize",67,0,3
+0.352811459283262,1,"chromatin",162,11,4
+0.0515050346578119,0.632797995645218,"epicellsize",97,2,5
+0.111,0.111,"barenuclei",97,2,5
