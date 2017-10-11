@@ -1,3 +1,1 @@
-# xPacs
-This repository has the code for the xPacs work that is under submission for academic conference. 
-The instructions to use the code will be updated.
+This repository contains the code and datasets for xPACS (for explaining anomalies in groups) that is under submission at SIAM SDM 2018.
