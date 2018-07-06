@@ -13,7 +13,7 @@ data.table dplyr ggplot2 ROCR
 ```
 
 ## File Structure 
-1. The `data/` contains the public datasets used in the paper and `code/` contains the code for xPACS as well as the other baselines in each folder. 
+1. The `data/` contains the public datasets used in the paper and `src/` contains the code for xPACS as well as the other baselines in each folder. 
 2. The pre processed features and labels are stored in csv format in the `data/` folder. 
 3. The `full.sh` script runs the end to end xPACS model for a dataset.   
 
