@@ -1,6 +1,9 @@
 # xPACS
 Explaining Anomalies in Groups with Characterizing Subspace Rules. The work is accepted for publication and will appear in the proceedings of Data Mining and Knowledge Discovery Journal as part of the special issue: Journal Track of ECMLPKDD 2018. 
 
+## Website 
+http://cmuxpacs.github.io/ 
+
 ## Requirements 
    * Requires Matlab and R. 
    * Requires the following matlab packages:
