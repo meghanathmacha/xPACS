@@ -6,7 +6,6 @@ Explaining Anomalies in Groups with Characterizing Subspace Rules. The work is a
    * Requires the following matlab packages:
 ```
 cvx 
-
 ```
    * Requires the following R packages:
 ```
